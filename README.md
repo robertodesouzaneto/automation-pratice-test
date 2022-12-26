@@ -1,5 +1,4 @@
-# automation-pratice-test
-TO-DO: Descrever o desafio
-TO-DO: Incluir instruções de como rodar os testes.
+# Selenium practice test
+This is a simple selenium project applying some concepts of UI automation.
 
-Tecnologias: Selenium, Java, PageObjects, BDD.
+Technologies: Selenium, Java, PageObjects, BDD.
